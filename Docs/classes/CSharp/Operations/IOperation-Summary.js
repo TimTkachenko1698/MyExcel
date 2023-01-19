@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.IOperation","IOperation");NDSummary.OnSummaryLoaded("CSharpClass:Operations.IOperation",[["C#","CSharp"]],[["Interfaces","Interface"]],[[39,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;IOperation"]]);

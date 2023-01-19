@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("int",["Class"],[["IntValueToken",,[["Parser",,,,0,"File:Parser/Token.cs:Parser.IntValueToken","CSharpClass:Parser.IntValueToken"]]]]);

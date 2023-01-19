@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("col",["Variable"],[["ColumnCount",,[["MyExel.Spreadsheet.SpreadSheet",,,,0,"File:Spreadsheet/SpreadSheet.cs:MyExel.Spreadsheet.SpreadSheet.ColumnCount","CSharpClass:MyExel.Spreadsheet.SpreadSheet:ColumnCount"]]]]);

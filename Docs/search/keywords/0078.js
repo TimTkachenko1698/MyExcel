@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("x",["Variable"],[["X",,[["MyExel.Spreadsheet.Cell",,,,0,"File:Spreadsheet/Cell.cs:MyExel.Spreadsheet.Cell.X","CSharpClass:MyExel.Spreadsheet.Cell:X"]]]]);

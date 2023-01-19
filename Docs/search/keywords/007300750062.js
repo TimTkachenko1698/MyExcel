@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sub",["Class"],[["Substruct",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Substruct","CSharpClass:Operations.Substruct"]]]]);

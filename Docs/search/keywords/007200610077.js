@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("raw",["Property"],[["RawData",,[["Parser.Formula",,,,0,"File:Parser/Formula.cs:Parser.Formula.RawData","CSharpClass:Parser.Formula:RawData"],["Parser.Token",,,,0,"File:Parser/Token.cs:Parser.Token.RawData","CSharpClass:Parser.Token:RawData"]]]]);

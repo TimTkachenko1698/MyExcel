@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cre",["Function"],[["CreateSpreadSheet",,[["MyExel.Spreadsheet.SpreadSheet",,,,0,"File:Spreadsheet/SpreadSheet.cs:MyExel.Spreadsheet.SpreadSheet.CreateSpreadSheet","CSharpClass:MyExel.Spreadsheet.SpreadSheet:CreateSpreadSheet"]]]]);

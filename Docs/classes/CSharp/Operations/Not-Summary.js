@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Not","Not");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Not",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[76,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Not"],[77,0,2,"Functions","Functions"],[78,0,1,"Evaluate","Evaluate"]]);

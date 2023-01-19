@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.And","And");NDSummary.OnSummaryLoaded("CSharpClass:Operations.And",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[97,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;And"],[98,0,2,"Functions","Functions"],[99,0,1,"Evaluate","Evaluate"]]);

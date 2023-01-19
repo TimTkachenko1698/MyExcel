@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ibi",["Interface"],[["IBinaryLogicOperation",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.IBinaryLogicOperation","CSharpClass:Operations.IBinaryLogicOperation"]]],["IBinaryOperation",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.IBinaryOperation","CSharpClass:Operations.IBinaryOperation"]]]]);

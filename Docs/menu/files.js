@@ -1,0 +1,1 @@
+﻿NDMenu.OnSectionLoaded("files.js",[[1,"AboutForm.cs"],[1,"AboutForm.Designer.cs"],[1,"Form1.cs"],[1,"Form1.Designer.cs"],[1,"HelpForm.cs"],[1,"HelpForm.Designer.cs"],[2,"Parser","File:Parser/",[[1,"BinaryTree.cs"],[1,"Formula.cs"],[1,"Operations.cs"],[1,"Parser.cs"],[1,"Token.cs"]]],[1,"Program.cs"],[2,"Spreadsheet","File:Spreadsheet/",[[1,"Cell.cs"],[1,"SpreadSheet.cs"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("res",["Property"],[["Result",,[["Parser.Formula",,,,0,"File:Parser/Formula.cs:Parser.Formula.Result","CSharpClass:Parser.Formula:Result"]]]]);

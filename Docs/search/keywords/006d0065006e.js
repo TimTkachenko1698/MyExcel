@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("men",["Variable"],[["menuStrip1",,[["MyExcel.Form1",,,,0,"File:Form1.Designer.cs:MyExcel.Form1.menuStrip1","CSharpClass:MyExcel.Form1:menuStrip1"]]]]);

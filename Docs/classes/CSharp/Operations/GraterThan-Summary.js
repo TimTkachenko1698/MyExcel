@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.GraterThan","GraterThan");NDSummary.OnSummaryLoaded("CSharpClass:Operations.GraterThan",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[82,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;GraterThan"],[83,0,2,"Functions","Functions"],[84,0,1,"Evaluate","Evaluate"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gra",["Class"],[["GraterEqualThan",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.GraterEqualThan","CSharpClass:Operations.GraterEqualThan"]]],["GraterThan",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.GraterThan","CSharpClass:Operations.GraterThan"]]]]);

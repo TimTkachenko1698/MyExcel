@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("con",["Variable"],[["ConstantRegex",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.ConstantRegex","CSharpClass:Parser.Parser:ConstantRegex"]]]]);

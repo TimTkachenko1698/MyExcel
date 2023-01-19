@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({174:"<div class=\"NDToolTip TClass LCSharp\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype174\"><div class=\"CPEntry TClass Current\"><div class=\"CPModifiers\"><span class=\"SHKeyword\">public</span></div><div class=\"CPName\"><span class=\"Qualifier\">MyExel.&#8203;Spreadsheet.</span>&#8203;Cell</div></div></div></div>"});

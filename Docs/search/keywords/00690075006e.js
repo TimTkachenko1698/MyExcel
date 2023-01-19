@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iun",["Interface"],[["IUnaryOperation",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.IUnaryOperation","CSharpClass:Operations.IUnaryOperation"]]]]);

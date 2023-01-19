@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Substruct","Substruct");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Substruct",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[67,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Substruct"],[68,0,2,"Functions","Functions"],[69,0,1,"Evaluate","Evaluate"]]);

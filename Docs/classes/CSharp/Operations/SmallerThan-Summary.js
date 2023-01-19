@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.SmallerThan","SmallerThan");NDSummary.OnSummaryLoaded("CSharpClass:Operations.SmallerThan",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[79,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;SmallerThan"],[80,0,2,"Functions","Functions"],[81,0,1,"Evaluate","Evaluate"]]);

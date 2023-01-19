@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dat",["Variable","Function"],[["dataGridView1",,[["MyExcel.Form1",,,,0,"File:Form1.Designer.cs:MyExcel.Form1.dataGridView1","CSharpClass:MyExcel.Form1:dataGridView1"]]],["dataGridView1_RowPostPaint",,[["MyExcel.Form1",,,,1,"File:Form1.cs:MyExcel.Form1.dataGridView1_RowPostPaint","CSharpClass:MyExcel.Form1:dataGridView1_RowPostPaint"]]]]);

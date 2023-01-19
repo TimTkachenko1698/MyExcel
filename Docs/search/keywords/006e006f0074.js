@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("not",["Class"],[["Not",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Not","CSharpClass:Operations.Not"]]],["NotEqual",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.NotEqual","CSharpClass:Operations.NotEqual"]]]]);

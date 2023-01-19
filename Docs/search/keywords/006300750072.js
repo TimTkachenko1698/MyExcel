@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cur",["Variable"],[["curentCell",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.curentCell","CSharpClass:Parser.Parser:curentCell"]]]]);

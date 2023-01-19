@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("val",["Variable","Property"],[["Value",,[["MyExel.Spreadsheet.Cell",,,,0,"File:Spreadsheet/Cell.cs:MyExel.Spreadsheet.Cell.Value","CSharpClass:MyExel.Spreadsheet.Cell:Value"]]],["valueLenth",,[["Parser.Token",,,,1,"File:Parser/Token.cs:Parser.Token.valueLenth","CSharpClass:Parser.Token:valueLenth"]]]]);

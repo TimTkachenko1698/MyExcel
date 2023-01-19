@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Exponentiate","Exponentiate");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Exponentiate",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[52,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Exponentiate"],[53,0,2,"Functions","Functions"],[54,0,1,"Evaluate","Evaluate"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mul",["Class"],[["Multiply",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Multiply","CSharpClass:Operations.Multiply"]]]]);

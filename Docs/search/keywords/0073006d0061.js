@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sma",["Class"],[["SmallerEqualThan",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.SmallerEqualThan","CSharpClass:Operations.SmallerEqualThan"]]],["SmallerThan",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.SmallerThan","CSharpClass:Operations.SmallerThan"]]]]);

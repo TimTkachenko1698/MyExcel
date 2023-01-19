@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dec",["Class"],[["Decrement",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Decrement","CSharpClass:Operations.Decrement"]]]]);

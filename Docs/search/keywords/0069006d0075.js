@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("imu",["Interface"],[["IMultyOperation",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.IMultyOperation","CSharpClass:Operations.IMultyOperation"]]]]);

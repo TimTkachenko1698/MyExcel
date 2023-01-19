@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("det",["Function"],[["DetermineOperator",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.DetermineOperator","CSharpClass:Parser.Parser:DetermineOperator"]]],["DetermineTypeOfToken",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.DetermineTypeOfToken","CSharpClass:Parser.Parser:DetermineTypeOfToken"]]]]);

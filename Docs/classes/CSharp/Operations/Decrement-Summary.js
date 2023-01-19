@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Decrement","Decrement");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Decrement",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[73,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Decrement"],[74,0,2,"Functions","Functions"],[75,0,1,"Evaluate","Evaluate"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pri",["Variable"],[["Priority",,[["Parser.Token",,,,0,"File:Parser/Token.cs:Parser.Token.Priority","CSharpClass:Parser.Token:Priority"]]]]);

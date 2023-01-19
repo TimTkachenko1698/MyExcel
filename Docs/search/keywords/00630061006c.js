@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cal",["Event"],[["Calculate",,[["MyExel.Spreadsheet.Cell",,,,0,"File:Spreadsheet/Cell.cs:MyExel.Spreadsheet.Cell.Calculate","CSharpClass:MyExel.Spreadsheet.Cell:Calculate"]]]]);

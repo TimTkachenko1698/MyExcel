@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("div",["Variable","Class"],[["DivadersRegex",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.DivadersRegex","CSharpClass:Parser.Parser:DivadersRegex"]]],["Divide",,[["Operations",,,,1,"File:Parser/Operations.cs:Operations.Divide","CSharpClass:Operations.Divide"]]]]);

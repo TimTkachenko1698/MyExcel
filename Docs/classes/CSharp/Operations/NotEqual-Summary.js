@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.NotEqual","NotEqual");NDSummary.OnSummaryLoaded("CSharpClass:Operations.NotEqual",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[94,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;NotEqual"],[95,0,2,"Functions","Functions"],[96,0,1,"Evaluate","Evaluate"]]);

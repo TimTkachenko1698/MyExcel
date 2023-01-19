@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gri",["Property"],[["GridView",,[["MyExel.Spreadsheet.SpreadSheet",,,,0,"File:Spreadsheet/SpreadSheet.cs:MyExel.Spreadsheet.SpreadSheet.GridView","CSharpClass:MyExel.Spreadsheet.SpreadSheet:GridView"]]]]);

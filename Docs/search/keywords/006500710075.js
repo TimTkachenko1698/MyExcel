@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("equ",["Class"],[["Equal",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Equal","CSharpClass:Operations.Equal"]]]]);

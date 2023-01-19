@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inc",["Class"],[["Increment",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.Increment","CSharpClass:Operations.Increment"]]]]);

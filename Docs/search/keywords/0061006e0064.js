@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("and",["Class"],[["And",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.And","CSharpClass:Operations.And"]]]]);

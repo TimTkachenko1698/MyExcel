@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Divide","Divide");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Divide",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[58,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Divide"],[59,0,2,"Functions","Functions"],[60,0,1,"Evaluate","Evaluate"]]);

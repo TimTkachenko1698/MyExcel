@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Increment","Increment");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Increment",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[70,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Increment"],[71,0,2,"Functions","Functions"],[72,0,1,"Evaluate","Evaluate"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("che",["Function"],[["CheckRecursion",,[["MyExel.Spreadsheet.Cell",,,,0,"File:Spreadsheet/Cell.cs:MyExel.Spreadsheet.Cell.CheckRecursion","CSharpClass:MyExel.Spreadsheet.Cell:CheckRecursion"],["Parser.PointerToken",,,,0,"File:Parser/Token.cs:Parser.PointerToken.CheckRecursion","CSharpClass:Parser.PointerToken:CheckRecursion"]]]]);

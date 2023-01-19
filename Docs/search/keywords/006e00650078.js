@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nex",["Variable"],[["Next",,[["Parser.BinaryTree",,,,0,"File:Parser/BinaryTree.cs:Parser.BinaryTree.Next","CSharpClass:Parser.BinaryTree:Next"]]]]);

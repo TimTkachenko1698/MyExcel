@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("par",["Function","Class"],[["Parse",,[["Parser.Parser",,,,0,"File:Parser/Parser.cs:Parser.Parser.Parse","CSharpClass:Parser.Parser:Parse"]]],["Parser",,[["Parser",,,,1,"File:Parser/Parser.cs:Parser.Parser","CSharpClass:Parser.Parser"]]]]);

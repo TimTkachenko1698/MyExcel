@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iop",["Interface"],[["IOperation",,[["Operations",,,,0,"File:Parser/Operations.cs:Operations.IOperation","CSharpClass:Operations.IOperation"]]]]);

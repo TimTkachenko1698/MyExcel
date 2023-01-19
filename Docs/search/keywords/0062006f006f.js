@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("boo",["Class"],[["BoolValueToken",,[["Parser",,,,0,"File:Parser/Token.cs:Parser.BoolValueToken","CSharpClass:Parser.BoolValueToken"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Operations.Add","Add");NDSummary.OnSummaryLoaded("CSharpClass:Operations.Add",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[64,0,0,"<span class=\"Qualifier\">Operations.</span>&#8203;Add"],[65,0,2,"Functions","Functions"],[66,0,1,"Evaluate","Evaluate"]]);

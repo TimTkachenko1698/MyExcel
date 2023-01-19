@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nar",["Function"],[["NarrowSpreadsheet",,[["MyExel.Spreadsheet.SpreadSheet",,,,0,"File:Spreadsheet/SpreadSheet.cs:MyExel.Spreadsheet.SpreadSheet.NarrowSpreadsheet","CSharpClass:MyExel.Spreadsheet.SpreadSheet:NarrowSpreadsheet"]]]]);
